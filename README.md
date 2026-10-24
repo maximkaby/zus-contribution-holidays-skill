@@ -57,9 +57,9 @@ The video may look slightly different from the current eZUS — the skill follow
 
 | File | Purpose |
 |---|---|
-| `zus-contribution-holidays/SKILL.md` | Main instructions Claude loads |
-| `zus-contribution-holidays/ezus-screens.md` | Real eZUS screen texts (Polish) with how to answer each question |
-| `zus-contribution-holidays/source-transcript.txt` | Polish subtitles of the official ZUS video tutorial |
+| `zus-contribution-holidays/SKILL.md` | Main instructions Claude loads (English, then Polish) |
+| `zus-contribution-holidays/ezus-screens.md` | Real eZUS screen texts with how to answer each question (English, then Polish) |
+| `zus-contribution-holidays/source-transcript.txt` | Polish subtitles of the official ZUS video tutorial, with an English translation |
 
 ## Install
 
@@ -167,9 +167,9 @@ Ekrany w filmie mogą się nieco różnić od obecnego eZUS — skill opiera si�
 
 | Plik | Do czego służy |
 |---|---|
-| `zus-contribution-holidays/SKILL.md` | Główne instrukcje, które ładuje Claude |
-| `zus-contribution-holidays/ezus-screens.md` | Teksty z ekranów eZUS i jak odpowiadać na każde pytanie |
-| `zus-contribution-holidays/source-transcript.txt` | Napisy z oficjalnego poradnika wideo ZUS |
+| `zus-contribution-holidays/SKILL.md` | Główne instrukcje, które ładuje Claude (po angielsku, potem po polsku) |
+| `zus-contribution-holidays/ezus-screens.md` | Teksty z ekranów eZUS i jak odpowiadać na każde pytanie (po angielsku, potem po polsku) |
+| `zus-contribution-holidays/source-transcript.txt` | Polskie napisy z oficjalnego poradnika wideo ZUS z tłumaczeniem na angielski |
 
 ## Instalacja
 

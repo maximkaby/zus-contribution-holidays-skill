@@ -1,5 +1,15 @@
-# Polish subtitles transcript: https://www.youtube.com/watch?v=AfuqKwYIvNI
-# (timestamps of the first 4 lines are unreliable)
+# Transcript of the official ZUS video tutorial: https://www.youtube.com/watch?v=AfuqKwYIvNI
+# Transkrypcja oficjalnego poradnika wideo ZUS: https://www.youtube.com/watch?v=AfuqKwYIvNI
+#
+# The file has two parts: (1) the original Polish auto-generated subtitles, kept verbatim
+# (incl. recognition errors such as "Mobby Obywatel" = mObywatel, "Deminimis" = de minimis);
+# (2) an English translation. Timestamps of the first 4 subtitle lines are unreliable.
+#
+# Plik ma dwie części: (1) oryginalne, automatycznie wygenerowane polskie napisy, bez zmian
+# (z błędami rozpoznawania, np. "Mobby Obywatel" = mObywatel, "Deminimis" = de minimis);
+# (2) tłumaczenie na angielski. Znaczniki czasu pierwszych 4 linii napisów są niewiarygodne.
+
+# ===== 1. Polish original / Oryginał polski =====
 
 [3:19] Wniosek o wakacje składkowe złożysz
 [44:39] przez stronę zus.pl. W prawym górnym
@@ -80,3 +90,18 @@
 [2:56] ciągu 7u dni. No i w ten sposób złożysz
 [2:59] wniosek o wakacje od ZUS.
 [3:04] M.
+
+# ===== 2. English translation / Tłumaczenie na angielski =====
+
+[0:00] You can file the application for wakacje składkowe via zus.pl. In the top right corner, click «Zaloguj się do eZUS» and choose one of the login methods. It can be a username and password, but you can also log in with the mObywatel app or with Profil Zaufany, which is what we chose.
+[0:17] After logging in, choose the «Katalog usług» tab from the menu on the left. Then pick from the list, or search the list for, the application for exemption from paying contributions for a specified month, RWS, and click «Przejdź do usługi».
+[0:32] In the application wizard, first set the type of application («Rodzaj wniosku») to «Wniosek». Then move on.
+[0:38] In this step your data should fill in by itself, but it is worth checking. Optionally you can give a phone number. Move on.
+[0:44] Now the period we are applying for appears. This period is already filled in automatically. It will always be the month following the month in which we file the application. In this case, if you file in March, you get the exemption from paying contributions for April. An entrepreneur can use this exemption once a year. Click «dalej».
+[1:09] In the next window we declare that we did not reach EUR 2 million of revenue in at least one of the last two calendar years. In the same window we indicate whether we used de minimis aid in the last three years. Remember that wakacje od ZUS are also de minimis aid and must be declared here. In the description of this video you will find a link to a video guide on how to file another application for wakacje od ZUS.
+[1:35] If you tick the option that you used de minimis public aid, you must also submit a declaration («oświadczenie») or attach certificates («zaświadczenia»). If you choose the declaration option, we must add the entities from which we received de minimis aid. We fill in this data. If we have certificates of receiving de minimis aid, after choosing that option there will be a possibility to attach those certificates at the very end of the application.
+[2:02] We move on and choose what kind of entrepreneur we are. In our case it is of course a mikroprzedsiębiorca, i.e. one that employs fewer than 10 employees and whose annual turnover does not exceed EUR 2 million. Other entities cannot use wakacje od ZUS. Also give your main PKD code and move on.
+[2:22] Now answer a series of questions. In our case we tick «nie» everywhere. After completing these declarations you have the option to attach, for example, a certificate of de minimis aid received.
+[2:33] We move on to where you can review the whole application. Everything is correct? Then click «Podpisz i wyślij».
+[2:40] After signing and sending, we get information that the application has been sent to ZUS. We will receive the answer to the application within 30 days. However, if ZUS has doubts about the application, it will ask us to supplement it, which must then be done within 7 days.
+[2:56] And that is how you file the application for wakacje od ZUS.

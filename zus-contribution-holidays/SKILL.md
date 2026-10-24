@@ -5,6 +5,10 @@ description: Use when a Polish entrepreneur (JDG, mikroprzedsiębiorca) asks abo
 
 # Wakacje składkowe (RWS application in eZUS)
 
+**English** | [Polski](#wersja-polska)
+
+> The same instructions are given twice: first in English, then in Polish. Both versions say the same thing — follow either one.
+
 ## Overview
 
 You help an entrepreneur check eligibility, prepare the data, and walk through the RWS wizard in eZUS. **You cannot file the application for them**: login (Profil Zaufany / mObywatel / username and password) and signing are done by the user only. Reply in the user's language; keep Polish field and button names exactly as they appear in the UI.
@@ -113,3 +117,118 @@ Write titles in the user's language (the Polish ones above are an example); keep
 ## Not covered by sources
 
 The fields of the de minimis declaration («oświadczenie»), where last year's certificate is in eZUS — not verified. Do not make it up: say so and refer to zus.pl or an accountant. This is guidance, not legal advice.
+
+---
+
+# Wersja polska
+
+[English](#wakacje-składkowe-rws-application-in-ezus) | **Polski**
+
+## Przegląd
+
+Pomagasz przedsiębiorcy sprawdzić, czy przysługuje mu ulga, przygotować dane i przejść przez kreator RWS w eZUS. **Nie możesz złożyć wniosku za użytkownika**: logowanie (Profil Zaufany / mObywatel / login i hasło) i podpis wykonuje wyłącznie użytkownik. Odpowiadaj w języku użytkownika; nazwy pól i przycisków zostawiaj po polsku, dokładnie tak jak w interfejsie.
+
+Na początku powiedz użytkownikowi, że może obejrzeć oficjalny film ZUS z pełnym przykładem wypełnienia wniosku (po polsku, ok. 3 min): https://www.youtube.com/watch?v=AfuqKwYIvNI — i wspomnij, że ekrany w filmie mogą się nieco różnić od obecnego eZUS.
+
+Źródła: poradnik wideo ZUS (`source-transcript.txt`) i prawdziwe ekrany eZUS (`ezus-screens.md` — treść pytań i jak na nie odpowiadać). Jeśli użytkownik przyśle zrzut ekranu, wyjaśniaj na jego podstawie; jeśli ekran różni się od tego skilla, ufaj ekranowi.
+
+## Przebieg
+
+1. **Sprawdź prawo do ulgi** — nie zadawaj listy pytań. Pokaż wykluczenia z sekcji «Prawo do ulgi» i zadaj jedno pytanie tak/nie: «Czy któraś z tych sytuacji dotyczy Ciebie?». «Nie» → ulga przysługuje, idź dalej. «Tak» → ustal, która, i powiedz wprost, co to oznacza. Pomiń punkty, na które użytkownik już odpowiedział.
+2. **Wylicz miesiąc zwolnienia** — miesiąc następujący po miesiącu złożenia wniosku.
+3. **Przygotuj dane**: główny kod PKD (gdzie go znaleźć — `ezus-screens.md`); pomoc de minimis z ostatnich 3 lat, w tym poprzednie wakacje od ZUS (data, kwota lub zaświadczenie).
+4. **Prowadź ekran po ekranie** — po jednym, jeśli użytkownik wypełnia wniosek właśnie teraz. Wyjaśniaj każdą odpowiedź «TAK/NIE» w odniesieniu do jego sytuacji; nigdy nie zakładaj domyślnie «NIE».
+5. **Po wysłaniu** podaj terminy (poniżej) i zaproponuj przypomnienia (zob. «Przypomnienia»).
+
+## Prawo do ulgi
+
+Przedstaw to użytkownikowi w takiej formie (w jego języku, z konkretnymi latami):
+
+**Ulga nie przysługuje, jeśli:**
+1. Działalność nie jest wpisana do CEIDG (np. sp. z o.o.). Wspólnicy spółki cywilnej i komornik sądowy mogą skorzystać.
+2. 10 lub więcej pracowników albo obrót (lub suma bilansowa) powyżej 2 mln euro — to nie jest mikroprzedsiębiorca.
+3. Przychód powyżej 2 mln euro w **obu** ostatnich 2 latach kalendarzowych (brak przychodu jest w porządku).
+4. Praca na B2B dla byłego pracodawcy w zakresie tego, co robił na umowie o pracę (w roku rozpoczęcia działalności lub roku poprzednim) — sprawdzane za poprzedni rok i bieżący rok do dnia złożenia wniosku.
+5. Wakacje składkowe zostały już wykorzystane w tym roku kalendarzowym (wykorzystanie w zeszłym roku nie przeszkadza).
+
+**Może przeszkodzić — sprawdź z księgowym:**
+- udziały w innych spółkach (np. sp. z o.o.);
+- rolnictwo, produkty spożywcze lub rybołówstwo.
+
+**Potem jedno pytanie:** «Czy któraś z tych sytuacji dotyczy Ciebie?» — nic więcej na tym etapie.
+
+O de minimis (w tym poprzednie wakacje od ZUS) nie pytaj tutaj — pojawi się samo w kroku 4 «Oświadczenia».
+
+## Ile można zaoszczędzić (2026)
+
+Gdy użytkownik zapyta, ile zaoszczędzi, albo gdy prawo do ulgi zostanie potwierdzone, podaj te przybliżone kwoty miesięczne (składki społeczne łącznie z dobrowolnym chorobowym oraz Fundusz Pracy, jeśli jest należny):
+
+| Wariant ZUS | Oszczędność za jeden miesiąc |
+|---|---|
+| Pełny ZUS (podstawa 5652 zł) | ≈ 1926,76 zł |
+| Preferencyjny ZUS (podstawa 1441,80 zł, bez FP) | ≈ 456,18 zł |
+| Mały ZUS Plus | zależy od podstawy wyliczonej z dochodu użytkownika |
+| Ulga na start | ≈ 0 zł — składek społecznych i tak się nie płaci |
+
+- Składki zdrowotnej **nie** oszczędzasz — nadal trzeba ją zapłacić.
+- To składki, nie podatki. Składki można odliczyć, więc zysk netto jest nieco niższy; nie podawaj dokładnej kwoty netto.
+- Kwoty zmieniają się co roku — dla innego roku powiedz, że trzeba je sprawdzić na zus.pl.
+
+## Ekrany kreatora (podsumowanie)
+
+Nazwy kroków tak, jak widać je na pasku postępu kreatora:
+
+0. zus.pl → «Zaloguj się do eZUS» → «Katalog usług» → RWS → «Przejdź do usługi».
+1. «Rodzaj wniosku»: «Wniosek» dla nowego wniosku. «Uzupełnienie/korekta wniosku» — aby uzupełnić/poprawić już wysłany wniosek (np. na wezwanie ZUS). «Wycofanie wniosku» — aby go wycofać.
+2. «Dane płatnika» — wypełnione automatycznie, sprawdź; numer telefonu nieobowiązkowy.
+3. «Treść wniosku» — miesiąc jest wypełniony automatycznie (następny miesiąc). Zwolnienie obejmuje tylko własne obowiązkowe ubezpieczenia społeczne właściciela, dobrowolne ubezpieczenie chorobowe, Fundusz Pracy i Fundusz Solidarnościowy. **Nie obejmuje składki zdrowotnej ani składek za pracowników.**
+4. «Oświadczenia» — przychód, były pracodawca, de minimis w ostatnich 3 latach. Przy pytaniu o de minimis przypomnij: poprzednie wakacje od ZUS liczą się jako pomoc de minimis i trzeba je wykazać (mówi o tym film ZUS w 1:22).
+5–8. «Informacje wymagane przy ubieganiu się o pomoc de minimis – część 1–4» — wielkość firmy i główny PKD (użytkownik go nie zna → instrukcja krok po kroku z sekcji «Jak znaleźć kod PKD» w `ezus-screens.md`), powiązania z innymi firmami, sposób powstania firmy, sektor.
+9. «Załączniki» — tylko jeśli w kroku 4 wybrano zaświadczenia.
+10. Przegląd → «Podpisz i wyślij».
+
+Szczegóły każdego ekranu — `ezus-screens.md`.
+
+## Po wysłaniu
+
+- Odpowiedź w ciągu **30 dni**, w eZUS (wiadomości/dokumenty). Zachowaj UPO.
+- Jeśli ZUS ma wątpliwości, wysyła do eZUS wezwanie do uzupełnienia wniosku («wezwanie do uzupełnienia»). Użytkownik ma **7 dni** od jego otrzymania; odpowiedź składa się przez ten sam kreator: «Rodzaj wniosku» → «Uzupełnienie/korekta wniosku».
+  - Powiedz użytkownikowi, żeby sprawdzał wiadomości w eZUS co 2–3 dni do końca 30-dniowego terminu na odpowiedź i odpowiadał od razu, a nie w ostatnim dniu. Zaproponuj przypomnienia (zob. «Przypomnienia»).
+  - Niesprawdzone (powiedz o tym, nie podawaj domysłów jako faktów): co się dzieje po przekroczeniu 7 dni (prawdopodobnie wniosek pozostaje nierozpatrzony — brak zwolnienia) i czy 7 dni liczy się od otwarcia wiadomości, czy od jej wpłynięcia do eZUS.
+- Użytkownik się rozmyślił — ten sam kreator → «Wycofanie wniosku».
+- Brak odpowiedzi w terminie — skontaktuj się z ZUS przed terminem płatności składek za ten miesiąc.
+- Przykład: wniosek złożony 21.10 → zwolnienie za listopad, odpowiedź do ok. 20.11.
+
+## Przypomnienia
+
+Po wysłaniu wniosku (albo gdy przyjdzie «wezwanie do uzupełnienia») **zapytaj użytkownika, czy chce przypomnienia** — jedno krótkie pytanie. Jeśli odmówi, odpuść. Jeśli się zgodzi, pokaż proponowane wydarzenia z datami i utwórz je dopiero po potwierdzeniu (może zmienić dni lub godzinę).
+
+**Przypomnienie — jedno wydarzenie** (D = data złożenia wniosku):
+
+- Tytuł: «Sprawdź eZUS — czy ZUS coś przysłał (wakacje składkowe)» (w języku użytkownika).
+- Kiedy: D+7, 09:00, 15 min. Powiązane z 7-dniowym terminem użytkownika: na wezwanie, które przyszło w pierwszym tygodniu, nadal można odpowiedzieć. Użytkownik może wybrać inną datę.
+- Opis: Sprawdź wiadomości w eZUS — czy ZUS przysłał wezwanie do uzupełnienia wniosku («wezwanie do uzupełnienia»)? Jeśli tak — odpowiedz w ciągu 7 dni od jego otrzymania przez «Rodzaj wniosku» → «Uzupełnienie/korekta wniosku». Ostateczna decyzja przychodzi w ciągu 30 dni od złożenia wniosku.
+
+Nie myl dwóch terminów: **30 dni** — ZUS musi wydać decyzję; **7 dni** — użytkownik musi odpowiedzieć na wezwanie ZUS (tylko jeśli takie przyjdzie).
+
+Tytuły pisz w języku użytkownika (polskie powyżej to przykład); w opisie zostaw polskie nazwy z interfejsu. Używaj strefy czasowej użytkownika i pory dziennej (np. 09:00, 15 min).
+
+**Jak:**
+- Dostępne jest narzędzie kalendarza (np. Google Calendar `create_event`) → pokaż listę wydarzeń z datami, uzyskaj «tak», potem je utwórz i powiedz, co zostało utworzone.
+- Brak narzędzia kalendarza → zapisz plik `.ics` z tymi samymi wydarzeniami i powiedz użytkownikowi, żeby go otworzył, aby zaimportować do kalendarza; albo po prostu podaj listę dat.
+- Nigdy nie wymyślaj daty złożenia wniosku — zapytaj, jeśli jej nie znasz.
+
+## Częste błędy
+
+- Niewykazanie poprzednich wakacji od ZUS jako pomocy de minimis.
+- Oczekiwanie zwolnienia za bieżący miesiąc.
+- Niezapłacenie składki zdrowotnej za miesiąc zwolnienia — ubezpieczenie zdrowotne nie jest objęte zwolnieniem i nadal trzeba je zapłacić. To samo dotyczy składek za pracowników.
+- Złożenie nowego «Wniosek» zamiast «Uzupełnienie/korekta wniosku», gdy ZUS prosi o poprawki.
+- Wybranie czegokolwiek innego niż «mikroprzedsiębiorca» — zwolnienie jest tylko dla mikroprzedsiębiorców.
+- B2B dla byłego pracodawcy — ulga nie przysługuje.
+- Załącznik > 1 MB (łączny limit 5 MB).
+- Przekroczenie 7-dniowego terminu na poprawki.
+
+## Poza źródłami
+
+Pola oświadczenia o pomocy de minimis («oświadczenie») i miejsce, gdzie w eZUS jest zaświadczenie z zeszłego roku — niesprawdzone. Nie wymyślaj: powiedz o tym i odeślij do zus.pl lub księgowego. To pomoc, a nie porada prawna.
